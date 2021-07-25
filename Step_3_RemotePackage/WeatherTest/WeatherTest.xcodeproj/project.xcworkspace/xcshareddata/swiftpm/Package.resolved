@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WeakContainers",
+        "repositoryURL": "https://github.com/ZevsV/WeakContainers.git",
+        "state": {
+          "branch": null,
+          "revision": "8b6d2f55e37c4da2646d5bca729c9f7101b8e1df",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
